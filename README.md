@@ -5,3 +5,5 @@ Components :
   1.  Csharp
   2.  Visual Studio
   3.  SQlite as simple and faster database
+!(tampilan1)(https://github.com/exp-technology/QR-parking-CSharp/blob/master/parking_csharp_code.png)
+!(tampilan2)(https://github.com/exp-technology/QR-parking-CSharp/blob/master/parking_csharp_code.png)
