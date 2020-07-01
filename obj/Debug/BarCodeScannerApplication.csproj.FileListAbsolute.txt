@@ -1,0 +1,77 @@
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\bin\Debug\BarCodeScannerApplication.exe.config
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\bin\Debug\BarCodeScannerApplication.exe
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\bin\Debug\BarCodeScannerApplication.pdb
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\bin\Debug\AForge.dll
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\bin\Debug\AForge.Video.dll
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\bin\Debug\zxing.dll
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\bin\Debug\zxing.presentation.dll
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\bin\Debug\AForge.xml
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\bin\Debug\AForge.Video.xml
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\bin\Debug\zxing.pdb
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\bin\Debug\zxing.xml
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\bin\Debug\zxing.presentation.pdb
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\bin\Debug\zxing.presentation.xml
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\obj\Debug\BarCodeScannerApplication.csprojResolveAssemblyReference.cache
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\obj\Debug\BarCodeScannerApplication.Form1.resources
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\obj\Debug\BarCodeScannerApplication.Properties.Resources.resources
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\obj\Debug\BarCodeScannerApplication.csproj.GenerateResource.Cache
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\obj\Debug\BarCodeScannerApplication.exe
+c:\users\amar\documents\visual studio 2015\Projects\BarCodeScannerApplication\obj\Debug\BarCodeScannerApplication.pdb
+D:\Kuliah\PMW\BarCodeScannerApplication\bin\Debug\BarCodeScannerApplication.exe.config
+D:\Kuliah\PMW\BarCodeScannerApplication\obj\Debug\BarCodeScannerApplication.exe
+D:\Kuliah\PMW\BarCodeScannerApplication\obj\Debug\BarCodeScannerApplication.pdb
+D:\Kuliah\PMW\BarCodeScannerApplication\bin\Debug\BarCodeScannerApplication.exe
+D:\Kuliah\PMW\BarCodeScannerApplication\bin\Debug\BarCodeScannerApplication.pdb
+D:\Kuliah\PMW\BarCodeScannerApplication\bin\Debug\AForge.dll
+D:\Kuliah\PMW\BarCodeScannerApplication\bin\Debug\AForge.Video.DirectShow.dll
+D:\Kuliah\PMW\BarCodeScannerApplication\bin\Debug\AForge.Video.dll
+D:\Kuliah\PMW\BarCodeScannerApplication\bin\Debug\zxing.dll
+D:\Kuliah\PMW\BarCodeScannerApplication\bin\Debug\zxing.presentation.dll
+D:\Kuliah\PMW\BarCodeScannerApplication\bin\Debug\AForge.xml
+D:\Kuliah\PMW\BarCodeScannerApplication\bin\Debug\AForge.Video.xml
+D:\Kuliah\PMW\BarCodeScannerApplication\bin\Debug\AForge.Video.DirectShow.xml
+D:\Kuliah\PMW\BarCodeScannerApplication\bin\Debug\zxing.pdb
+D:\Kuliah\PMW\BarCodeScannerApplication\bin\Debug\zxing.xml
+D:\Kuliah\PMW\BarCodeScannerApplication\bin\Debug\zxing.presentation.pdb
+D:\Kuliah\PMW\BarCodeScannerApplication\bin\Debug\zxing.presentation.xml
+D:\Kuliah\PMW\BarCodeScannerApplication\obj\Debug\BarCodeScannerApplication.csprojResolveAssemblyReference.cache
+D:\Kuliah\PMW\BarCodeScannerApplication\obj\Debug\BarCodeScannerApplication.Form1.resources
+D:\Kuliah\PMW\BarCodeScannerApplication\obj\Debug\BarCodeScannerApplication.Properties.Resources.resources
+D:\Kuliah\PMW\BarCodeScannerApplication\obj\Debug\BarCodeScannerApplication.csproj.GenerateResource.Cache
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\BarCodeScannerApplication.exe.config
+D:\Kuliah\PMW\Smart_Parking_by amar\obj\Debug\BarCodeScannerApplication.exe
+D:\Kuliah\PMW\Smart_Parking_by amar\obj\Debug\BarCodeScannerApplication.pdb
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\BarCodeScannerApplication.exe
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\BarCodeScannerApplication.pdb
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\AForge.dll
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\AForge.Video.DirectShow.dll
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\AForge.Video.dll
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\zxing.dll
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\zxing.presentation.dll
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\AForge.xml
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\AForge.Video.xml
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\AForge.Video.DirectShow.xml
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\zxing.pdb
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\zxing.xml
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\zxing.presentation.pdb
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\zxing.presentation.xml
+D:\Kuliah\PMW\Smart_Parking_by amar\obj\Debug\BarCodeScannerApplication.Form1.resources
+D:\Kuliah\PMW\Smart_Parking_by amar\obj\Debug\BarCodeScannerApplication.Properties.Resources.resources
+D:\Kuliah\PMW\Smart_Parking_by amar\obj\Debug\BarCodeScannerApplication.csproj.GenerateResource.Cache
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\System.Data.SQLite.dll
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\System.Data.SQLite.pdb
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\EntityFramework.dll
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\Installer.exe
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\SQLite.Designer.dll
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\EnvDTE.dll
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\stdole.dll
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\Installer.pdb
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\SQLite.Designer.pdb
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\System.Data.SQLite.EF6.pdb
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\System.Data.SQLite.Linq.pdb
+D:\Kuliah\PMW\Smart_Parking_by amar\bin\Debug\EnvDTE.xml
+D:\Kuliah\PMW\Smart_Parking_by amar\obj\Debug\BarCodeScannerApplication.csprojResolveAssemblyReference.cache
